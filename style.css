@@ -8,3 +8,11 @@ h1 {
   font-weight: 700;
   color: #586e75;
 }
+
+#game {
+  margin-top: 1em;
+}
+
+button {
+  margin-left: 0.5em;
+}
